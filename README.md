@@ -23,7 +23,9 @@ We believe that learning AI should be both informative and fun. On our channel, 
 Technologies We Use
 
 1- Programming Language: C# – for robust environment creation, MDP definition, and seamless integration with simulation tools.
+
 2- Frameworks & Libraries: We utilize modern libraries and frameworks (like Unity, TensorFlow.NET, and others) to build, train, and evaluate our models.
+
 3- Algorithms: From PPO (Proximal Policy Optimization) to SAC (Soft Actor-Critic) and POCA, we implement various algorithms to demonstrate their unique advantages.
 
 Join Our Community
