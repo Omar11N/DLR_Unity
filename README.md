@@ -1,5 +1,5 @@
 # DLR_Unity
-We are hosting a youtube channel, where we experiment with DRL in Unity https://youtube.com/@aifriendsarabic?si=irMQeBSNtziZpEI6
+We are hosting a youtube channel, where we experiment with DRL in Unity [https://youtube.com/@aifriendsarabic?si=irMQeBSNtziZpEI6](https://www.youtube.com/@AIFriendsArabic)
 
 AI Friends
 
